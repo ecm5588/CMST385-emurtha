@@ -12,7 +12,7 @@ jobs:
 
   build-and-deploy:
 
-    runs-on: mac-latest
+    runs-on: windows-latest
 
     steps:
 
